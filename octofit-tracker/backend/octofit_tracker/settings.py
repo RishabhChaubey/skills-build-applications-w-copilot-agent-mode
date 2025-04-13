@@ -48,7 +48,6 @@ INSTALLED_APPS += [
     "octofit_tracker",
 ]
 
-
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
